@@ -1,0 +1,4 @@
+idDept,idPeriode,nomRealisation,idType,montant
+1,1,Ventes en cours Q1,1,10000
+2,1,Marketing en cours,2,5000
+3,1,Formation en cours,2,2000

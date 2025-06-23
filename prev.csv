@@ -1,0 +1,6 @@
+idDept,idPeriode,nomPrevision,idType,montant
+1,1,Ventes Q1,1,50000
+1,1,Salaires Q1,2,30000
+2,1,Budget Marketing Q1,2,15000
+3,1,Formation Q1,2,5000
+4,1,Maintenance Q1,2,10000
